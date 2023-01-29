@@ -65,7 +65,7 @@ export function ProductCard({ product }: ProductCardProps) {
                     pl: '$12'
                   }}
                 >
-                  {price}
+                  ${price}
                 </Text>
               </Col>
             </Row>
